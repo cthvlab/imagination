@@ -6,3 +6,5 @@ Hint - tags have a many-to-many relationship with posts.
 2. You need to make a page that displays the list of posts (post - entity). In this list, each line should contain the following roles - id, title, creation date and a button for editing and deleting a post.
 3. When editing a post, you can also change any information about the post, except for the id. Tags can be added, removed or new ones created.
 4. Using a database (any relational, except SQLite), a framework of your choice (Symfony, Laravel, Yii) and php are required.
+
+Working example here: <a href="dreamip.ru">dreamip.ru</a>
