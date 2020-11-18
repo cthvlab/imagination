@@ -7,4 +7,4 @@ Hint - tags have a many-to-many relationship with posts.
 3. When editing a post, you can also change any information about the post, except for the id. Tags can be added, removed or new ones created.
 4. Using a database (any relational, except SQLite), a framework of your choice (Symfony, Laravel, Yii) and php are required.
 
-Working example here: <a href="https://dreamip.ru">dreamip.ru</a>
+Working example here: <a href="https://dreamip.ru" target="_blank">dreamip.ru</a>
